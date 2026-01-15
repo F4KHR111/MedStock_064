@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Med Stock</string>
+
+    <string name="tab_resep">Pencatatan Resep</string>
+    <string name="tab_stok">Manajemen Stok Obat</string>
+
+    <string name="form_edit_resep_title">Formulir Edit Resep</string>
+    <string name="edit_resep">Edit Resep</string>
+    <string name="entry_resep">Tambah Resep Baru</string>
+    <string name="detail_resep">Detail Resep</string>
+    <string name="nama_pasien">Nama Pasien*</string>
+    <string name="tanggal">Tanggal*</string>
+    <string name="obat_diberikan">Obat yang Diberikan*</string>
+    <string name="jumlah_unit">Jumlah (unit)*</string>
+    <string name="keterangan_dokter">Keterangan Dokter</string>
+    <string name="cari_resep">Cari nama pasien atau obat...</string>
+    <string name="export_pdf">Export PDF</string>
+
+
+    <string name="detail_obat_title">Detail Obat</string>
+    <string name="edit_obat_title">Edit Data Obat</string>
+    <string name="entry_obat">Tambah Obat Baru</string>
+    <string name="edit_obat">Edit Obat</string>
+    <string name="nama_obat">Nama Obat*</string>
+    <string name="stok">Stok (unit)*</string>
+    <string name="tanggal_kadaluarsa">Tanggal Kadaluarsa*</string>
+    <string name="harga_satuan">Harga Satuan (Rp)*</string>
+    <string name="peringatan_stok">Peringatan Stok Obat</string>
+    <string name="stok_rendah">⚠️ Stok rendah: %1$s unit</string>
+    <string name="expired_soon">⏰ Kadaluarsa dalam %1$s hari</string>
+
+    <string name="deskripsi_no_resep">Belum ada data resep harian. Tap + untuk mencatat resep baru.</string>
+    <string name="deskripsi_no_obat">Belum ada data obat di stok. Tap + untuk menambah obat baru.</string>
+    <string name="required_field">* Field wajib diisi</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_batal">Batal</string>
+
+    <string name="back">Kembali</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="delete">Hapus</string>
+    <string name="attention">Perhatian</string>
+    <string name="tanya_hapus_obat">Apakah Anda yakin ingin menghapus data obat %1$s?</string>
+    <string name="tanya_hapus_resep">Apakah Anda yakin ingin menghapus catatan resep ini?</string>
+    <string name="pilih_obat">Pilih Obat</string>
+    <string name="info_stok_tersedia">(Stok: %1$s unit)</string>
+</resources>
